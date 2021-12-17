@@ -1,0 +1,17 @@
+1- Install poetry and have it running
+2- Build a simple hello-world python project
+3- Setup git
+4- push the project to github
+5- tag the the first verion with git
+6- Build the package with poetry
+7- Push the package to the test pypi
+8- Release the first stable version to pypi
+9- Update the project
+10- Push to github
+11- Tag the new version in git
+12- Build and release the new verion to pypi
+
+1- Clone the cookiecutter project
+2- Setup poetry
+3- Build the project and push to my private pypi account
+
